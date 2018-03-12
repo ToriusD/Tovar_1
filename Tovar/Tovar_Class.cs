@@ -18,7 +18,13 @@ namespace Tovar
         public int Quantity { get; set; }
         public float Price { get; set; }
 
-
+        //---------------КОНСТРУКТОР ПО УМОЛЧАНИЮ
+        public Tovar_Class()
+        {
+            name = null;
+            quantity = 0;
+            price = 0;
+        }
 
         //---------------МЕТОД ВЫВОДА
         public virtual void Print()
