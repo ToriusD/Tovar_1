@@ -1,0 +1,9 @@
+D:\ПОИТ\УП по программированию\ДЕНЬ 1\Tovar\Tovar\bin\Debug\Tovar.exe.config
+D:\ПОИТ\УП по программированию\ДЕНЬ 1\Tovar\Tovar\bin\Debug\Tovar.exe
+D:\ПОИТ\УП по программированию\ДЕНЬ 1\Tovar\Tovar\bin\Debug\Tovar.pdb
+D:\ПОИТ\УП по программированию\ДЕНЬ 1\Tovar\Tovar\obj\Debug\Tovar.csprojResolveAssemblyReference.cache
+D:\ПОИТ\УП по программированию\ДЕНЬ 1\Tovar\Tovar\obj\Debug\Tovar.exe
+D:\ПОИТ\УП по программированию\ДЕНЬ 1\Tovar\Tovar\obj\Debug\Tovar.pdb
+D:\ПОИТ\УП_по_программированию\ДЕНЬ_1\1\Tovar\Tovar\bin\Debug\Tovar.exe.config
+D:\ПОИТ\УП_по_программированию\ДЕНЬ_1\1\Tovar\Tovar\obj\Debug\Tovar.exe
+D:\ПОИТ\УП_по_программированию\ДЕНЬ_1\1\Tovar\Tovar\obj\Debug\Tovar.pdb
